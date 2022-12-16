@@ -14,7 +14,7 @@ The Greedy Snake's tail grows with every collected dollar
 ## Program Details:
 * The Game is designed and made Flexible and Maintainble, so it's easy to maintain and update it later
 * Every part of the program is maintainble no fixed values, we can change (Board size - Snake's drawing - Type of the collected coin .. etc) 
-* The Game isn't meant to have a great Graphical User Interface (GUI), but the point is making the game with a correct, efficient ans elegant Algorithm.. then the GUI can be added later 
+* The Game isn't meant to have a great Graphical User Interface (GUI), but the point is making the game with a correct, efficient and elegant Algorithm.. then the GUI can be added later 
 
 ## 1 Minute of Game Preview
 
