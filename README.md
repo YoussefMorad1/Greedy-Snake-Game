@@ -1,4 +1,4 @@
-# SnakeGame
+# Greedy Snake Game
  
 ### A Console Snake Game written in C++ using Object Oriented Programming Concepts (OOP)
 
