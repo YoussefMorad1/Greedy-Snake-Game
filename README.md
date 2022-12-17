@@ -18,6 +18,8 @@ The Greedy Snake's tail grows with every collected dollar
 
 ## 1 Minute of Game Preview
 
-https://user-images.githubusercontent.com/102534922/208100772-b71b1e4b-0f59-4203-97c5-6b2353ef3148.mp4
+
+
+https://user-images.githubusercontent.com/102534922/208254952-29b3a7d4-6a94-4051-bd0b-18f6a027d622.mp4
 
 
